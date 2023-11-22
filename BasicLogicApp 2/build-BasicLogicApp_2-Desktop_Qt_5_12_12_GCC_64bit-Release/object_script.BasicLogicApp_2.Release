@@ -1,0 +1,12 @@
+release/fromudpclient.o
+release/main.o
+release/readingclass.o
+release/server.o
+release/threadstack.o
+release/totcpclient.o
+release/writingclass.o
+release/moc_fromudpclient.o
+release/moc_readingclass.o
+release/moc_server.o
+release/moc_totcpclient.o
+release/moc_writingclass.o

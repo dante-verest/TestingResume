@@ -1,0 +1,12 @@
+debug/fromudpclient.o
+debug/main.o
+debug/readingclass.o
+debug/server.o
+debug/threadstack.o
+debug/totcpclient.o
+debug/writingclass.o
+debug/moc_fromudpclient.o
+debug/moc_readingclass.o
+debug/moc_server.o
+debug/moc_totcpclient.o
+debug/moc_writingclass.o
